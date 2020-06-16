@@ -1,7 +1,7 @@
 ---
 title: "final_project"
-author: "Jane Doe"
-date: "8/10/2018"
+author: "Scott McLean"
+date: "6/16/2020"
 output: html_document
 ---
 
